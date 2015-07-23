@@ -1,5 +1,4 @@
 import socket
-
 host = "www.google.com"
 port = 80
 
